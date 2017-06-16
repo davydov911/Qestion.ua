@@ -1,0 +1,1 @@
+document.write("<div class='mymenu'><a class='mylink' href='Profil.html'>Profil</a></div><div class='mymenu'><a class='mylink' href='Qestions.html'>Qestions</a></div><div class='mymenu'><a class='mylink' href='Message.html'>Messages</a></div>")
